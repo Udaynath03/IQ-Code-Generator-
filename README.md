@@ -1,8 +1,8 @@
 # IQ Code Generator | Create Free, Unlimited QR Codes
 
-Generate static and dynamic QR codes online for free! Easily create QR codes for URLs, text, images, and more. Personalize your design with custom logos and colors, then download in crystal-clear quality to meet your needs.
+Generate static and dynamic QR codes online for free! Easily create QR codes for URLs, text, images, and more. You can personalize your design with custom logos and colors, then download in crystal-clear quality to meet your needs.
 
-<h3><a href="https://www.iqcodegenerator.com/">➤ ►🌍📺📱👉 IQ Code Generator</a></h3>
+<h3><a href="https://www.iqcodegenerator.com/">➤ ►🌍📺📱👉 QR Code Generator</a></h3>
 
 iq code generator
 
